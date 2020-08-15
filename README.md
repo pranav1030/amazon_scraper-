@@ -14,7 +14,8 @@ for o/p in json-file:
 ---------------------
 scrapy crawl amazon -o product_name.json
    
-
+Info
+------------
 This scraper extracts product name, product price, product img_url, product stars for specifically styled web pages of amazon.
 
 It takes inputs from the user wishing to search for a particular product
